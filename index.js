@@ -5,6 +5,8 @@ console.log(12.17);
 // Boolean
 console.log(true);
 console.log(false);
+console.log("hello");
+
 
 
 
